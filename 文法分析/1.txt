@@ -1,0 +1,11 @@
+const ch='2';
+var h:integer;
+procedure he(var i:integer);
+begin
+	read(i)
+end;
+begin
+	he(h);
+	h:=ch+1;
+	write("h is",h)
+end.
